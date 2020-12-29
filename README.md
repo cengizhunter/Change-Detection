@@ -24,5 +24,5 @@ It can be easily modified for other indices.
 - NDTI threshold removed noise Image
 
 
-- ![mode_threshold_square_ndtidif](output/mode_threshold_square_ndtidif.png)
+- ![MODE_THRESHOLD_SQUARE_NDTIDIF](output/mode_threshold_square_ndtidif.png)
 
