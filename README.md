@@ -33,7 +33,7 @@ It can be easily modified for other indices.
 
  
  
- ### References that I used for this code
+ ### References
 - [Change Detection between NDVI Images]
 -  [NDVI Index calculation Hatari Labs]
  
