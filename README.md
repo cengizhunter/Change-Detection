@@ -1,3 +1,5 @@
+- ![ITU_LOGO](logo/ITU_logo.png)
+
 # Change-Detection
 
 This code calculates difference from NDTI images. It can be used for change detection on the images with different dates.
