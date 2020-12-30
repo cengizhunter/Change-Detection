@@ -35,7 +35,7 @@ Using a conda enviroment with jupyternotebook for this code could helpful.
 
 NDTI difference Threshold square image             |  After 3x3 Mode Filter
 :-------------------------:|:-------------------------:
-![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019_NDTI.jpg)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/images/2014_NDTI.jpg)
+![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/Output/threshold_square_ndtidif.png)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/Output/mode_threshold_square_ndtidif.png)
 
 
 
