@@ -30,6 +30,9 @@ It can be easily modified for other indices.
  ![MODE_THRESHOLD_SQUARE_NDTIDIF](https://github.com/cengizhunter/Change-Detection/blob/main/Output/mode_threshold_square_ndtidif.png)
  
  ### References that I used for this code
+- [Change Detection between NDVI Images]
+-  [NDVI Index calculation Hatari Labs]
+ 
 [Change Detection between NDVI Images]: https://github.com/tkorting/youtube/tree/master/basic-change-detection-in-rs
 [NDVI Index calculation Hatari Labs]: https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial
 
