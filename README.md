@@ -31,7 +31,7 @@ Using a conda enviroment with jupyternotebook for this code could helpful.
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019_NDTI.jpeg)  |  ![](https://...Ocean.png)
+![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019_NDTI.jpg)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019_NDTI.jpg)
 
 
 
