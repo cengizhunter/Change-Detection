@@ -31,7 +31,7 @@ Using a conda enviroment with jupyternotebook for this code could helpful.
 
 2019 RGB Image Kocaeli             |  2014 RGB Image Kocaeli
 :-------------------------:|:-------------------------:
-![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019RGB.jpg)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/images/2014RGB.jpg)
+![](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019_RGB.jpg)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/images/2014_RGB.jpg)
 
 
 2019 NDTI Image Kocaeli             |  2014 NDTI Image Kocaeli
