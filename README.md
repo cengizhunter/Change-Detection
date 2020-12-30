@@ -29,7 +29,12 @@ Using a conda enviroment with jupyternotebook for this code could helpful.
 - NDTI threshold Image
 - NDTI threshold removed noise Image
 
-2019 NDTI Kocaeli             |  2014 NDTI Kocaeli
+2019 RGB Image Kocaeli             |  2014 RGB Image Kocaeli
+:-------------------------:|:-------------------------:
+![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019RGB.jpg)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/images/2014RGB.jpg)
+
+
+2019 NDTI Image Kocaeli             |  2014 NDTI Image Kocaeli
 :-------------------------:|:-------------------------:
 ![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019_NDTI.jpg)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/images/2014_NDTI.jpg)
 
