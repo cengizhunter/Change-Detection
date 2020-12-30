@@ -29,9 +29,11 @@ Using a conda enviroment with jupyternotebook for this code could helpful.
 - NDTI threshold Image
 - NDTI threshold removed noise Image
 
-Solarized dark             |  Solarized Ocean
+2019 NDTI             |  2014 NDTI
 :-------------------------:|:-------------------------:
-![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019_NDTI.jpg)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019_NDTI.jpg)
+![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019_NDTI.jpg)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/images/2014_NDTI.jpg)
+
+
 
 
 
