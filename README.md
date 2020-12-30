@@ -43,15 +43,6 @@ NDTI difference Threshold square image             |  After 3x3 Mode Filter
 ![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/Output/threshold_square_ndtidif.png)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/Output/mode_threshold_square_ndtidif.png)
 
 
-
-
-
-**NDTI difference Threshold square image**  ![MODE_THRESHOLD_SQUARE_NDTIDIF](https://github.com/cengizhunter/Change-Detection/blob/main/Output/threshold_square_ndtidif.png)
-
-**After 3x3 Mode Filter**  ![MODE_THRESHOLD_SQUARE_NDTIDIF](https://github.com/cengizhunter/Change-Detection/blob/main/Output/mode_threshold_square_ndtidif.png)
-
- 
- 
  ## References
 - [Change Detection between NDVI Images by Thales Sehn Körting]
 - [NDVI Index calculation by Hatari Labs]
