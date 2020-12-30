@@ -29,6 +29,7 @@ It can be easily modified for other indices.
 ** After 3x3 Mode Filter
  ![MODE_THRESHOLD_SQUARE_NDTIDIF](https://github.com/cengizhunter/Change-Detection/blob/main/Output/mode_threshold_square_ndtidif.png)
  
+ 
  ### References that I used for this code
 - [Change Detection between NDVI Images]
 -  [NDVI Index calculation Hatari Labs]
