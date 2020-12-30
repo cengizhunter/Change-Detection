@@ -23,11 +23,10 @@ It can be easily modified for other indices.
 - NDTI threshold Image
 - NDTI threshold removed noise Image
 
+**NDTI difference Threshold square image**  ![MODE_THRESHOLD_SQUARE_NDTIDIF](https://github.com/cengizhunter/Change-Detection/blob/main/Output/threshold_square_ndtidif.png)
 
-**NDTI difference Threshold square image**
- ![MODE_THRESHOLD_SQUARE_NDTIDIF](https://github.com/cengizhunter/Change-Detection/blob/main/Output/threshold_square_ndtidif.png)
-**After 3x3 Mode Filter**
- ![MODE_THRESHOLD_SQUARE_NDTIDIF](https://github.com/cengizhunter/Change-Detection/blob/main/Output/mode_threshold_square_ndtidif.png)
+**After 3x3 Mode Filter**  ![MODE_THRESHOLD_SQUARE_NDTIDIF](https://github.com/cengizhunter/Change-Detection/blob/main/Output/mode_threshold_square_ndtidif.png)
+
  
  
  ### References that I used for this code
