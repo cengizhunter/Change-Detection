@@ -33,6 +33,10 @@ Using a conda enviroment with jupyternotebook for this code could helpful.
 :-------------------------:|:-------------------------:
 ![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019_NDTI.jpg)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/images/2014_NDTI.jpg)
 
+NDTI difference Threshold square image             |  After 3x3 Mode Filter
+:-------------------------:|:-------------------------:
+![Solarized dark](https://github.com/cengizhunter/Change-Detection/blob/main/images/2019_NDTI.jpg)  |  ![](https://github.com/cengizhunter/Change-Detection/blob/main/images/2014_NDTI.jpg)
+
 
 
 
