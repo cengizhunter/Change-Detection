@@ -1,3 +1,6 @@
+Dataset used in this work is from USGS Landsat-8. See the source here
+<img align="right" width="200" height="100" src="https://www.usgs.gov/sites/all/themes/usgs_palladium/logo.png">
+
 <img align="right" width="200" height="100" src="https://raw.githubusercontent.com/cengizhunter/Change-Detection/main/logo/ITU_logo.png">
 
 # Change-Detection
