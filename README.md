@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/cengizhunter/Change-Detection/main/logo/ITU_logo.png">
+<img align="right" width="200" height="100" src="https://raw.githubusercontent.com/cengizhunter/Change-Detection/main/logo/ITU_logo.png">
 
 # Change-Detection
 
