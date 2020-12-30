@@ -20,7 +20,7 @@ Using a conda enviroment with jupyternotebook for this code could helpful.
 ## Input Bands for landsat8
 
 - Band6 (SWIR1)
-- Band7 (SwIR2)
+- Band7 (SWIR2)
 
 ## Outputs
 
