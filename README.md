@@ -34,7 +34,7 @@ It can be easily modified for other indices.
  
  
  ## References
-- [Change Detection between NDVI Images]
+- [Change Detection between NDVI Images "Thales Sehn Körting"]
 -  [NDVI Index calculation Hatari Labs]
  
 [Change Detection between NDVI Images]: https://github.com/tkorting/youtube/tree/master/basic-change-detection-in-rs
