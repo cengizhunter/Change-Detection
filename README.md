@@ -34,9 +34,9 @@ It can be easily modified for other indices.
  
  
  ## References
-- [Change Detection between NDVI Images by "Thales Sehn Körting"]
+- [Change Detection between NDVI Images by Thales Sehn Körting]
 - [NDVI Index calculation by Hatari Labs]
  
-[Change Detection between NDVI Images by "Thales Sehn Körting"]: https://github.com/tkorting/youtube/tree/master/basic-change-detection-in-rs
+[Change Detection between NDVI Images by Thales Sehn Körting]: https://github.com/tkorting/youtube/tree/master/basic-change-detection-in-rs
 [NDVI Index calculation by Hatari Labs]: https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial
 
