@@ -22,7 +22,7 @@ Using a conda enviroment with jupyternotebook for this code could helpful.
 - Band6 (SWIR1)
 - Band7 (SWIR2)
 
-## Outputs
+## Output Images
 
 - NDTI Images
 - NDTI difference
