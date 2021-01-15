@@ -44,11 +44,11 @@ NDTI difference Threshold square image             |  After 3x3 Mode Filter
 
 
  ## References
-- [Separating Built-Up Areas article]
+- [Separating Built-Up Areas article (Osgouei et al. 2018)]
 - [Change Detection between NDVI Images by Thales Sehn Körting]
 - [NDVI Index calculation by Hatari Labs]
  
 [Change Detection between NDVI Images by Thales Sehn Körting]: https://github.com/tkorting/youtube/tree/master/basic-change-detection-in-rs
 [NDVI Index calculation by Hatari Labs]: https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial
-[Separating Built-Up Areas article]: https://www.mdpi.com/2072-4292/11/3/345
+[Separating Built-Up Areas article (Osgouei et al. 2018)]: https://www.mdpi.com/2072-4292/11/3/345
 
