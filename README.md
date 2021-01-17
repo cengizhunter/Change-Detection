@@ -9,7 +9,7 @@ It can be easily modified for other indices.
 
 ## Libraries that are used in jupyter notebook on python 3.8.5
 
-Using a conda enviroment with jupyternotebook for this code could helpful.
+Using a conda enviroment with jupyternotebook for this code could be helpful.
 
 - rasterio 1.1.8
 - numpy 1.19.4
